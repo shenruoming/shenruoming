@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Ruoming Shen
+* Studying computer science at Princeton University
+* Interests: web development, computer science, machine learning, bioinformatics
+* Currently learning: C++
+* Reach me: https://www.linkedin.com/in/ruomingshen/ 
+### Technical Skills
+* **Languages:** Python, Java, JavaScript, C, R, SQL, HTML, CSS
+* **Frameworks & Tools:** Flask, Git, Spring, Render
+* **Databases & Cloud:** PostgreSQL
+* **Other:** REST APIs, microservices
+### Featured Projects
 <!--
 **shenruoming/shenruoming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
