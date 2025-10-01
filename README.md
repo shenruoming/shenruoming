@@ -1,7 +1,7 @@
 ## Ruoming Shen
 * Studying computer science at Princeton University
 * Interests: web development, computer science, machine learning, bioinformatics
-* Currently learning: training computer vision models
+* Currently learning: React, training computer vision models
 * Reach me: https://www.linkedin.com/in/ruomingshen/ 
 ### Technical Skills
 * **Languages:** Python, Java, JavaScript, C, C++, R, SQL, HTML, CSS
